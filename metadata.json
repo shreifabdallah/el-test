@@ -1,8 +1,1 @@
-{
-    "name": "Coinbase Cloud Testnet Operator",
-    "website": "https://www.coinbase.com/cloud",
-    "description": "Coinbase Cloud Testnet Operator",
-    "logo": "https://raw.githubusercontent.com/shreifabdallah/el-test/main/Coinbase_Wordmark.png",
-    "twitter": "https://twitter.com/CoinbaseCloud"
-}
-  
+{ "name": "Coinbase Cloud", "website": "https://www.coinbase.com/cloud", "description": "Coinbase Cloud maintains world-class, enterprise-grade staking infrastructure for 19+ networks", "logo": "https://raw.githubusercontent.com/Layr-Labs/eigendata/master/operators/coinbasecloud/logo.png", "twitter": "https://twitter.com/CoinbaseDev" }
